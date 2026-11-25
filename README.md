@@ -6,11 +6,13 @@
 
 ### 🚀 A Curated Directory of Generative Voice AI, Neural TTS, Zero-Shot Voice Cloning & Conversational Speech LLMs
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis/pulse)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis?style=social)](https://github.com/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <b>Explore state-of-the-art Neural Text-to-Speech (TTS), Instant Voice Cloning, Expressive Paralinguistic Speech Synthesis, Low-Latency Speech-to-Speech (S2S), and Edge Audio Generation Runtimes.</b>
@@ -18,7 +20,7 @@
 
 ---
 
-[🌐 Sector Overview](#-sector-overview--market-dynamics) • [💼 SaaS & Enterprise Platforms](#-saas--hosted-platforms) • [💻 Open-Source Projects](#-open-source-github-projects) • [🛠️ Architectures & Frameworks](#-frameworks-for-custom-voice-agents) • [🤝 Contributing](#-how-to-contribute) • [⚖️ Disclaimer](#-disclaimer)
+[🌐 Sector Overview](#-sector-overview--market-dynamics) • [💼 SaaS & Enterprise Platforms](#-saas--hosted-platforms) • [💻 Open-Source Projects](#-open-source-github-projects) • [🛠️ Architectures & Frameworks](#-frameworks-for-custom-voice-agents) • [⭐ Star History](#-star-history) • [💖 Support & Community](#-support) • [🤝 Contributing](#-how-to-contribute) • [⚖️ Disclaimer](#-disclaimer)
 
 ---
 
@@ -112,6 +114,27 @@ We welcome additions of promising voice AI tools and open-weights models!
 2. 📝 **Add or update** entries in `README.md` following the table schema.
 3. 🔗 Include verified links, transparent pricing/free tier data, and accurate GitHub star badges.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your addition.
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and supporting **Awesome Multimodal Voice AI & Speech Synthesis**! 🎉
+
+If you find this ecosystem directory helpful for your research, products, or voice experiments:
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** and contribute your favorite open-source models and platforms.
+- 📢 **Share it** with your friends, colleagues, and AI communities on X/Twitter, LinkedIn, Reddit, or Discord.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and maintenance, consider sponsoring on GitHub:  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+Every bit of encouragement and community support keeps this directory up-to-date with the latest advances in voice AI! ✨
+
+---
+
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis&type=date&legend=top-left)`
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis&type=date&legend=top-left)`
 
 ---
 
