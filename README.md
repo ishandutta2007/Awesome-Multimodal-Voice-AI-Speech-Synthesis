@@ -11,7 +11,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis/pulse)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis?style=social)](https://github.com/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis?style=social)](https://github.com/ishandutta2007/Awesome-Multimodal-Voice-AI-Speech-Synthesis/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -55,9 +55,9 @@ A ranked index of leading commercial voice synthesis platforms, enterprise speec
 
 ## 💻 Open-Source GitHub Projects
 
-Community-driven open-weights neural TTS models, zero-shot voice cloning toolkits, and streaming voice agents. **Sorted by GitHub Stars (descending)**:
+Community-driven open-weights neural TTS models, zero-shot voice cloning toolkits, and streaming voice agents. **Sorted by GitHub_Stars (descending)**:
 
-| 📦 Repository & Project | ⭐ Stars | 📜 Core Architecture & Primary Use-Case |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 📜 Core Architecture & Primary Use-Case |
 | :--- | :--- | :--- |
 | **[GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS)** | [![Stars](https://img.shields.io/github/stars/bilibili/GPT-SoVITS?style=social&color=white)](https://github.com/bilibili/GPT-SoVITS/stargazers) | Few-shot & zero-shot voice cloning UI capable of cross-lingual voice synthesis from just 5 seconds of clean reference audio. |
 | **[Coqui TTS](https://github.com/coqui-ai/TTS)** | [![Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) | Battle-tested deep learning TTS framework supporting XTTS-v2, Bark, VITS, Tortoise, and multilingual zero-shot voice cloning in 17+ languages. |
@@ -112,7 +112,7 @@ We welcome additions of promising voice AI tools and open-weights models!
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or update** entries in `README.md` following the table schema.
-3. 🔗 Include verified links, transparent pricing/free tier data, and accurate GitHub star badges.
+3. 🔗 Include verified links, transparent pricing/free tier data, and accurate GitHub Stars_Badges.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your addition.
 
 ---
